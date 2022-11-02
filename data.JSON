@@ -1,0 +1,8 @@
+[
+{"id":1 ,"nombre":"Remera Britney Spears", "precio": 3500, "img":"./recursos/Britney.jpg", "cantidad":1},
+{"id":2 ,"nombre":"Remera Pibes Chorros", "precio": 3500, "img":"./recursos/Pibes.jpg", "cantidad":1},
+{"id":3 , "nombre":"Buzo Berserk", "precio": 6000, "img":"./recursos/Buzo1.jpg", "cantidad":1},
+{"id":4, "nombre":"Buzo Gorillaz", "precio": 6500, "img":"./recursos/Buzo2.jpg", "cantidad":1},
+{"id":5, "nombre": "Gorra Yu-Gi-Oh", "precio": 3000, "img":"./recursos/Gorra1.jpg", "cantidad":1},
+{"id":6, "nombre": "Buzo Metallica X Naruto", "precio": 8000, "img":"./recursos/buzoMetallica.jpg", "cantidad":1}
+]
